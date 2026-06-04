@@ -1,8 +1,8 @@
 class Spinpacks < Formula
   desc "Apply themed Claude Code spinner verb packs to your settings"
   homepage "https://github.com/VasylRomanets/spinpacks"
-  url "https://github.com/VasylRomanets/spinpacks/archive/refs/tags/v1.1.0.tar.gz"
-  sha256 "a5a710732ed42f6515b663d3936f7ef17dc1c984a214dc0bce2ea222e5fc183e"
+  url "https://github.com/VasylRomanets/spinpacks/archive/refs/tags/v1.1.1.tar.gz"
+  sha256 "8396892f70a792d5412f9e5fb506abb77e9271a681e8b54a762c0dff70a5aa7d"
   license "MIT"
 
   def install
