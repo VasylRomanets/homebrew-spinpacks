@@ -1,8 +1,8 @@
 class Spinpacks < Formula
   desc "Apply themed Claude Code spinner verb packs to your settings"
   homepage "https://github.com/VasylRomanets/spinpacks"
-  url "https://github.com/VasylRomanets/spinpacks/archive/refs/tags/v1.1.1.tar.gz"
-  sha256 "8396892f70a792d5412f9e5fb506abb77e9271a681e8b54a762c0dff70a5aa7d"
+  url "https://github.com/VasylRomanets/spinpacks/archive/refs/tags/v1.2.0.tar.gz"
+  sha256 "55888129e4211b412c5448e526bb84d269bd5df28bf5b48af1db7b81a9fd1acc"
   license "MIT"
 
   def install
@@ -14,7 +14,7 @@ class Spinpacks < Formula
   end
 
   def post_install
-    ohai "Run `spinpacks apply the-office` to enable The Office spinner verbs"
+    ohai "Run `spinpacks install the-office` to enable The Office spinner verbs"
   end
 
   test do
