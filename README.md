@@ -9,6 +9,6 @@ Homebrew tap for my CLIs tools.
 ## Install
 
 ```sh
-brew tap VasylRomanets/tap
+brew tap vasylromanets/tap
 brew install spinpacks
 ```
